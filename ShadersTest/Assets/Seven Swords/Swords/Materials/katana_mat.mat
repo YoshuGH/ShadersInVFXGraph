@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: katana_mat
+  m_Shader: {fileID: -6465566751694194690, guid: 9f9be3141770e8d4bb9c41685325ceea,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_E56502D7:
+        m_Texture: {fileID: 2800000, guid: 8e431c92e316b514c8f1ea2e3bd6e1d3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: a67e673c8af506a4ba643f29fd177a31, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 85b46585c892f0449bcc027a76f9213d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: e703b092a67e85c49938e613a1d52f02, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mainTex:
+        m_Texture: {fileID: 2800000, guid: 85b46585c892f0449bcc027a76f9213d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _metallicMap:
+        m_Texture: {fileID: 2800000, guid: a8c1dae7a337242478b5af64189c4cb5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1E46B2A4: 300
+    - Vector1_FE9422A7: 0.1
+    - Vector1_FEE72C7D: 0.3
+    - _CubeStr: 0.5
+    - _metallic: 0.5
+    - _noisePwr: 5
+    - _noiseScl: 35
+    - _smoothness: 0.9
+    m_Colors:
+    - Color_54214FF: {r: 0.078675695, g: 0.98113203, b: 0.73367876, a: 1}
+    - Vector2_DD918FF9: {r: 0, g: -0.6, b: 0, a: 0}
+    - Vector4_E5A79023: {r: 0, g: -0.8, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _color: {r: 1, g: 1, b: 1, a: 1}
+    - _noiseColor: {r: 0, g: 11.545098, b: 11.984314, a: 1}
