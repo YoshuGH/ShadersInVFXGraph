@@ -1,2 +1,2 @@
 # ShadersInVFXGraph
- In this proyect i use Shaders Graph and VFX Graph to make some shaders
+ Creacion de shaders basicos usando Shaders Graph de Unity
